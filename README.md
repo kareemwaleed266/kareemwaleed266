@@ -9,6 +9,9 @@
     <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github" alt="GitHub Badge"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kareemwaleed266&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
