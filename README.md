@@ -3,14 +3,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kareem-waleed-2057a431a">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/kareemwaleed266">
-    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&style=flat&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://github.com/kareemwaleed266?tab=followers">
+    <img src="https://img.shields.io/github/followers/kareemwaleed266?label=Follow&style=flat&logo=github" alt="GitHub Followers"/>
   </a>
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kareemwaleed266&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=kareemwaleed266&label=Profile%20Views&color=gray&style=flat" alt="Profile Views"/>
 </p>
 
 ---
