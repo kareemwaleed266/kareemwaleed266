@@ -17,6 +17,14 @@
   <img src="https://komarev.com/ghpvc/?username=kareemwaleed266&label=Profile%20Views&color=gray&style=flat" alt="Profile Views"/>
 </p>
 
+## 🧑‍💻 About Me
+
+I'm a passionate Full-Stack Developer with a focus on building clean and scalable web applications using .NET Core and Angular.  
+Currently a student at the Faculty of Computers and Artificial Intelligence – Helwan University, majoring in Information Systems.
+
+I love learning new technologies and turning real-world ideas into digital products.
+
+
 ---
 
 - 🔭 I’m currently working on: **Building scalable web apps with Angular & ASP.NET Core**
